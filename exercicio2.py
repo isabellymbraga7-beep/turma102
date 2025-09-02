@@ -1,6 +1,5 @@
-numero = 10 
-if numero > 5:
-    print ("maior que 5")
-    efif numero < = 5:
-    print ("menor ou igual a 5")
-    
+numero = 7
+if numero == 7
+   print ("igual a 7")
+   else:
+    print ("diferente de 7")
